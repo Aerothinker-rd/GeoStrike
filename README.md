@@ -1,5 +1,7 @@
 # GeoStrike (alpha)
 
+![alt text](screen.png)
+
  3D game for real world data. Boom!
  
  Play it live at [geo-strike.com](http://geo-strike.com/)
